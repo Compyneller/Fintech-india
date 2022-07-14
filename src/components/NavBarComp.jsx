@@ -26,7 +26,7 @@ const NavBarComp = () => {
               About Us
             </Nav.Link>
             <Nav.Link className="text-light" href="/contact">
-              Contact
+              Contact Us
             </Nav.Link>
           </Nav>
         </Navbar.Collapse>
