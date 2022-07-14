@@ -21,11 +21,15 @@ const ContactUs = () => {
             <Card className="shadow-sm">
               <Card.Body>
                 <h5 style={{ color: "#5000CA" }}>Contact</h5>
-                <p>+91-75269 92290</p>
+                <p>+91-75269 92290 , +91-8427910315</p>
                 <br />
                 <h5 style={{ color: "#5000CA" }}>Email</h5>
                 <a href="mailto:info@fintechindia.net ">
                   info@fintechindia.net{" "}
+                </a>
+                ,
+                <a className="ms-2" href="mailto:fintechindiapvtltd@gmail.com ">
+                  fintechindiapvtltd@gmail.com
                 </a>
                 <br />
                 <br />
