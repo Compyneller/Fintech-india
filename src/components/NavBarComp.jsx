@@ -28,9 +28,6 @@ const NavBarComp = () => {
             <Nav.Link className="text-light" href="/contact">
               Contact
             </Nav.Link>
-            <Nav.Link className="text-light" href="/privacy">
-              Privacy Policy
-            </Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Container>

@@ -8,6 +8,7 @@ import AboutUs from "./pages/AboutUs";
 import Privacy from "./pages/Privacy";
 import TC from "./pages/TC";
 import Footer from "./components/Footer";
+import FooterStrip from "./components/FooterStrip";
 function App() {
   return (
     <div className="App">
@@ -21,6 +22,7 @@ function App() {
           <Route path="/tc" element={<TC />} />
         </Routes>
         <Footer />
+        <FooterStrip />
       </BrowserRouter>
     </div>
   );
